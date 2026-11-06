@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "dm_memorytasks",
+  "versions": [
+    {
+      "commit": "47d454618573965f01f313fd8ccdddf6c2ba0da7",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:22:14.862649+00:00"
+    }
+  ]
+}
