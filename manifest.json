@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "dm_memorytasks",
+  "versions": [
+    {
+      "commit": "47d454618573965f01f313fd8ccdddf6c2ba0da7",
+      "parsed_at": "2026-11-06T08:19:55.234756+00:00",
+      "filetree": "filetree/47d454618573965f01f313fd8ccdddf6c2ba0da7.nq.gz",
+      "blobs": [
+        "blob/9d02e993fdcb6a839de551822093ae263c02cb5a.nq.gz",
+        "blob/14760efb943acfe74df159112fe97c6bd2434a30.nq.gz",
+        "blob/d88e2cb80eff0d545834407af59fc3be3b6f9a7b.nq.gz",
+        "blob/b02eba01a4c8a2cf3c759300f65a436eb4ce3b32.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/9a86ba025d83dfc39db62d84ee7cac0a9da1ac08.nq.gz",
+        "blob/ec04ac16fc1b9be79d65fbf41a903c3aae8a51c7.nq.gz",
+        "blob/f392dd036ee7e542b8deabe2d459e78a8827803b.nq.gz",
+        "blob/ec4ad7caf0f689c20c159d56d46231095f980ce2.nq.gz",
+        "blob/70199ee41d8a716fd37b469c168a1f754d7469dc.nq.gz",
+        "blob/25f7b205c614f992b269f768778d4241485458f0.nq.gz",
+        "blob/d2c1391ad8c2fc65b1e2014649f10005cdeb33fc.nq.gz",
+        "blob/4c1ebea9f9c991efa1e0130126f35ea8df8e7af7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
